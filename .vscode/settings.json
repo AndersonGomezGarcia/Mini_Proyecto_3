@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "AbsoluteLayout.jar",
+        "xchart-3.8.5.jar"
+    ],
+    "cmake.configureOnOpen": true
+}
